@@ -1,0 +1,25 @@
+#header {
+    background-color: $orange1
+}
+
+.page_title {
+    float: right;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.main_nav {
+    text-align: center;
+}
+
+.main_nav li {
+    display: inline;
+    padding: 10px;
+}
+
+.divider {
+    border-bottom: 5px;
+    border-bottom-style: dotted;
+    border-bottom-color: #000;
+}

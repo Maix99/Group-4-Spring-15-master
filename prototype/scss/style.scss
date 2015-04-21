@@ -1,0 +1,14 @@
+/* --------------------------------------------------
+This stylesheet is generated Sass, http://sass-lang.com.
+To modify it, you should use the Sass files located in the scss folder.
+Most small changes can be done by changing the values in the foundation/_settings.scss file.
+-------------------------------------------------- */
+
+//This imports the Foundation scss
+@import "foundation";
+
+@import "base/base";
+@import "layout/layout";
+@import "vendor/vendor";
+
+//To make changes to the default color, typography and grid settings for foundation modify the files in foundation/settings
