@@ -30,9 +30,10 @@
  $blue        : #008CBA;
  $light-blue  : #a0d3e8;
  $light-grey   : #e7e7e7;
- $orange      : #f08a24;
+ $orange      : #FF6600;
  $orange-red  : #f04124;
  $green       : #43AC6A;
+
 
 //Add your colors here or change above
 
@@ -142,7 +143,7 @@
  $button-font-weight: 900;
  $button-font-color: $white;
 // $button-font-color-alt: $oil;
- $button-bg-color: $primary-color;
+ $button-bg-color: $orange;
 // $button-bg-hover: scale-color($button-bg-color, $lightness: $button-function-factor);
 //$button-border-color: $button-bg-hover;
 
